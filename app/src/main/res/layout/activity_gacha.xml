@@ -23,8 +23,8 @@
         android:id="@+id/image_handle"
         android:layout_width="77dp"
         android:layout_height="62dp"
-        android:layout_marginStart="132dp"
-        android:layout_marginTop="528dp"
+        android:layout_marginStart="120dp"
+        android:layout_marginTop="524dp"
         android:src="@drawable/handle"
         app:layout_constraintStart_toStartOf="@id/image_gacha"
         app:layout_constraintTop_toTopOf="@id/image_gacha" />
